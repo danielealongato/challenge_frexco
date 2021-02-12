@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.xml
+.idea/sonarlint/issuestore/index.pb
+.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+.idea/sonarlint/issuestore/8/a/8aec1c305fb1a1538712d86126d5eb5a65ec8a0f
+.idea/sonarlint/issuestore/8/0/806d6ceb4e60342798038124ccf7dc1a423a4433
+*.iml
+.idea/sonarlint/issuestore/0/3/03f5908412712f277c22277e9265ac7ed9fd684c
+.idea/sonarlint/issuestore/1/9/19359a61ae2446b51b549167b014da2fcf265768
+.idea/sonarlint/issuestore/3/6/36912f1d7b2dc1a9a1b0ee71fc9247daf4bdf582
+.idea/sonarlint/issuestore/3/a/3aea12cde6bd8bf5220b0e259b8fa0d267e2dffb
